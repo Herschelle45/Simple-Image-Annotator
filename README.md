@@ -13,4 +13,4 @@ python3 ImgAnnotator.py
 ```
 
 ### Usage 
-Input the **image file path**, then * * **left-click** * * to get the coordinates of the point you want to preview on the image, click **W** to write the point to the csv file. 
+  Input the **image file path**, then **_left-click_** to get the coordinates of the point you want to preview on the image, click **W** to write the point to the csv file. 
